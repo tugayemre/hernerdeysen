@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "362714952514",
+    "firebase_url": "https://her-nerdeysen.firebaseio.com",
+    "project_id": "her-nerdeysen",
+    "storage_bucket": "her-nerdeysen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362714952514:android:e92f9c873589511c6f0edb",
+        "android_client_info": {
+          "package_name": "com.yucedag.hernerdeysen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362714952514-hpt89e2aqh6rkmg73hd5dhesioeedd4p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yucedag.hernerdeysen",
+            "certificate_hash": "6fa5237830768bb4abceec4108401ede77db683d"
+          }
+        },
+        {
+          "client_id": "362714952514-3omirvfppjr6noup6pae9vobbla7j946.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqAaKpMJPvyRALBtBsFjGusqa0AlZaBjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362714952514-3omirvfppjr6noup6pae9vobbla7j946.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
